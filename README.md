@@ -1,0 +1,1 @@
+This repository contains the code of my project for the 2020/2021 Neural Networks course from the Engineering in Computer Science master's degree at Sapienza - University of Rome.
